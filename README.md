@@ -1,4 +1,6 @@
+This is the server fiels for moonlightMC a new eagler server i am working on it will have DUELS and Life-STEAL and more. Open an issues with sugustions and i will try to add it in the server. Open a pull requets if you know what you are doing and are changing something usfull and i might add it 
 # EaglerCraftX Server
+
 
 ## Credits
 Original Project: Lax1Dude
@@ -6,7 +8,7 @@ Original Project: Lax1Dude
 Original Server Fork: EcoliEater87
 <br>
 ## Setup Guide
-Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
+How to run this server:
 <br>
 <br>
 First, go to the top of the repo and click on code > codespaces > create codespace
@@ -24,5 +26,6 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 <br>
 <br>
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
+||| YOU CAN ALSO DO THIS ON CODESANDBOX.IO |||
 <br>
-Your eaglercraft server is setup!
+Your very own MoonlightMC fork is setup!
